@@ -1,3 +1,4 @@
+#2026-1-11 cnn,ahaber,sozcu,krt
 #EXTM3U 
 
 # NL
@@ -75,7 +76,7 @@ http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #cnn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=EiW90ch_xZelAtVOu7X_Qw&e=1768093826
+https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #haber global
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -85,7 +86,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #ahaber
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ahaber.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=14
 #tvnet
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -99,7 +100,7 @@ https://canli.tgrthaber.com/tgrt.m3u8
 
 #sozcu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=18
 #bloomberg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="HABER",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
@@ -148,7 +149,7 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #krt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="HABER",KRT
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=41
 #gzt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png" group-title="HABER",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
