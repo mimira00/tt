@@ -75,7 +75,7 @@ http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #cnn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=EiW90ch_xZelAtVOu7X_Qw&e=1768093826
 #haber global
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
